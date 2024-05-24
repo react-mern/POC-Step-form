@@ -105,3 +105,7 @@ When you are testing the demo project after the setup I request use following In
 - If you want to test email is register error use this list of email "asdf@gmail.com", "abcd@gmail.com"
 - similarly with phone number: "9151626204", "1948215360", "4681307035", "7235311701"
 - In City i have put some city are "ahmadabad", "rajkot", "jamnagar", "bhavnagar"
+
+## Author Details
+Name: vipul chandravadiya  
+Email: vipul.c@simformsolutions.com
